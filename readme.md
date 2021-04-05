@@ -11,3 +11,4 @@
 5. CV Checking
 6. Model Ensemble
 
+Only Google Colab is supported.
