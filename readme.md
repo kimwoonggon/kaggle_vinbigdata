@@ -1,2 +1,4 @@
-Vinbigdata Full Pipleline
-Yolov5, MMDETECTION, DETECTRON2
+#Vinbigdata Full Pipleline
+- Yolov5, 
+- MMDETECTION, 
+- DETECTRON2
