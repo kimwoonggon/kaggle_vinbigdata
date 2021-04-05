@@ -1,4 +1,4 @@
-## Vinbigdata Full Pipleline
+## Vinbigdata Full Pipeline
 * Yolov5 
 * MMDETECTION - VFNet
 * DETECTRON2 - Faster RCNN
