@@ -1,7 +1,7 @@
 ## Vinbigdata Full Pipleline
 * Yolov5 
-* MMDETECTION 
-* DETECTRON2
+* MMDETECTION - VFNet
+* DETECTRON2 - Faster RCNN
 ## Common things
 
 1. Data Preparation
