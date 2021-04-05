@@ -2,6 +2,8 @@
 ### Yolov5 
 ### MMDETECTION 
 ### DETECTRON2
+## Common things
+
 1. Data Preparation
 2. Preprocessing
 3. Model train
