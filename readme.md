@@ -1,7 +1,7 @@
 ## Vinbigdata Full Pipleline
-### Yolov5 
-### MMDETECTION 
-### DETECTRON2
+* Yolov5 
+* MMDETECTION 
+* DETECTRON2
 ## Common things
 
 1. Data Preparation
